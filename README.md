@@ -1,6 +1,5 @@
 # Project---Website
-An online market place, contains products from all the member companies
-www.faciteel.xyz/Final
+An online market place(www.faciteel.xyz/Final), contains products from all the member companies
 The following features are present:
 
 
