@@ -28,6 +28,7 @@ If you are an existing user, enter email address and password and click on ‘Lo
             - User is taken to Home page and user session is created which is indicated by ‘Hello, Username!’ on top right.
 
  
+ 
 
 2. Accessing products of all the five Partners from the Marketplace
 
@@ -53,6 +54,7 @@ If you are an existing user, enter email address and password and click on ‘Lo
 
 
 
+
 3. Rate and Review a product 
 
 •    Click on any of the ‘product name’ (shop.php) as above say ‘Spider-man’.
@@ -70,6 +72,7 @@ If you are an existing user, enter email address and password and click on ‘Lo
 •    The rating (black stars) and review comments that you just added will be displayed here along with your Name.
 
  
+
 
 4. Top five most visited products/services in the whole market place.
 
@@ -91,6 +94,7 @@ If you are an existing user, enter email address and password and click on ‘Lo
 
  
 
+
 5. Top 5 Last Visited products/services in the whole market place.
 
 •    On the Home page (www.faciteel.xyz/Final) scroll down till below the carousel images
@@ -109,6 +113,7 @@ If you are an existing user, enter email address and password and click on ‘Lo
 
  
 
+
 6. Tracking History of where the user has visited within the market place
  
 •    Click on the Tracker section in the Main menu of home page.
@@ -124,6 +129,7 @@ If you are an existing user, enter email address and password and click on ‘Lo
 •    The list of products that have been visited in history will be displayed with the latest one on top.
  
 
+
 7. Top five products/services in each member company
 
 •    On the Home page (www.faciteel.xyz/Final) scroll down towards the end of the page.
@@ -133,6 +139,7 @@ If you are an existing user, enter email address and password and click on ‘Lo
 •    The top five products within each company is being displayed here.
 
  
+
 
 8. Responsive UI
 
